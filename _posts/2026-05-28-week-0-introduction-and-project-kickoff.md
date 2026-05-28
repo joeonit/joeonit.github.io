@@ -3,6 +3,7 @@ layout: post
 title: "Week 0: Introduction and Project Kick-off"
 date: 2026-05-28 10:00:00 +0000
 categories: gsoc
+permalink: /gsoc/week0
 ---
 
 Welcome to my first post on the blog! I am incredibly excited to share that I will be spending this summer contributing to the GNU Radio community as part of Google Summer of Code 2026.
